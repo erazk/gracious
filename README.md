@@ -1,104 +1,187 @@
-Gracious Smile Dental Clinic Management System
-A Web-Based and Mobile Application Record Management and Appointment Scheduling System with SMS Notification developed for Gracious Smile Dental Clinic. The system aims to modernize clinic operations by automating appointment scheduling, organizing patient records, improving communication through SMS notifications, and streamlining payment monitoring. 
+# 🦷 Gracious Smile Dental Clinic Management System
 
-📌 Project Overview
-Gracious Smile Dental Clinic previously relied on manual processes such as paper-based patient records, appointment bookings through calls/messages, and Excel-based payment tracking. These processes often caused scheduling conflicts, delayed communication, and inefficient record management. 
-This project was developed to provide a centralized and efficient digital solution for both clinic staff and patients.
+<div align="center">
 
-🎯 Objectives
+### A Web-Based and Mobile Application Record Management and Appointment Scheduling System with SMS Notification
+
+![PHP](https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+
+</div>
+
+---
+
+# 📖 Overview
+
+The **Gracious Smile Dental Clinic Management System** is a web-based and mobile-accessible application designed to modernize the clinic’s daily operations through digital automation.
+
+The system focuses on:
+
+- 📅 Appointment Scheduling  
+- 🗂️ Patient Record Management  
+- 📩 SMS Notifications  
+- 💳 Payment Monitoring  
+- 📱 Mobile Accessibility  
+
+This project was developed to address the clinic’s existing manual processes such as paper-based records, appointment bookings through calls/messages, and Excel-based payment tracking.
+
+---
+
+# ✨ Features
+
+## 👨‍⚕️ Patient Record Management
+- Store patient information securely
+- Manage medical history and treatment records
+- Centralized digital database
+- Quick and organized patient search
+
+## 📅 Appointment Scheduling
+- Online appointment booking
+- Prevent double bookings
+- Appointment cancellation and rescheduling
+- Real-time scheduling management
+
+## 📩 SMS Notification System
+- Automated appointment reminders
+- Cancellation notifications
+- Emergency announcements
+- Real-time patient communication
+
+## 💳 Payment Monitoring
+- Track completed payments
+- Monitor overdue balances
+- View payment history
+- Simplified billing management
+
+## 🔐 User Access Control
+- Role-based access permissions
+- Secure authentication system
+- Protected patient data
+
+## 📱 Responsive Design
+- Accessible through desktop and mobile devices
+- User-friendly interface
+- Web-based accessibility
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP / Laravel |
+| Database | MySQL |
+| Server | Apache / XAMPP |
+| Notifications | SMS API Integration |
+| Version Control | Git & GitHub |
+
+---
+
+# 🧩 System Modules
+
+```text
+📦 System Modules
+ ┣ 📂 Authentication Module
+ ┣ 📂 Patient Management Module
+ ┣ 📂 Appointment Scheduling Module
+ ┣ 📂 SMS Notification Module
+ ┣ 📂 Payment Monitoring Module
+ ┣ 📂 Admin Dashboard
+ ┗ 📂 Reports & Monitoring
+```
+
+---
+
+# 🎯 Objectives
+
 The system aims to:
-Prevent double bookings and missed appointments
-Automate SMS appointment reminders and notifications
-Manage patient records securely and efficiently
-Monitor payment transactions and overdue balances
-Improve operational efficiency and patient satisfaction 
 
-✨ Features
-👨‍⚕️ Patient Management
-Store and manage patient information
-Access medical history and treatment records
-Organize patient data in a centralized database
+- ✅ Reduce manual scheduling errors
+- ✅ Prevent missed appointments
+- ✅ Improve patient communication
+- ✅ Organize patient records efficiently
+- ✅ Streamline clinic operations
+- ✅ Improve patient satisfaction
 
-📅 Appointment Scheduling
-Online appointment booking
-Appointment cancellation and rescheduling
-Real-time schedule management
-Prevent overlapping appointments
+---
 
-📩 SMS Notification System
-Automated appointment reminders
-Cancellation and emergency notifications
-Real-time patient communication
+# 🏗️ Development Methodology
 
-💳 Payment Tracking
-Monitor completed and pending payments
-Track overdue balances
-View transaction history
+This project follows the **Agile Software Development Methodology**, emphasizing:
 
+- Iterative Development
+- Continuous Feedback
+- Flexibility & Adaptability
+- Stakeholder Collaboration
+- Continuous Improvement
 
-📱 Web and Mobile Accessibility
-Web-based system accessible through browsers
-Mobile-friendly interface for convenient access
+---
 
-🛠️ Technologies Used
-Based on the study framework and system requirements: 
-Frontend: HTML, CSS, JavaScript
-Backend: PHP / Laravel
-Database: MySQL
-Mobile Access: Responsive Web Application
-SMS API: SMS Notification Integration
-Server: Apache / XAMPP
-Version Control: Git & GitHub
+# 📌 Scope
 
-🧩 System Modules
-User Authentication
-Patient Record Management
-Appointment Scheduling
-SMS Notification Module
-Payment Monitoring
-Admin Dashboard
-Reports and Monitoring
+The system includes:
 
-👥 Researchers
-Edgar R. Dollentas – Systems Developer
-Bart Jason G. Edades – Systems Architect
-Ezra A. Enanoza – Technical Writer
-Irish A. Balana – Data Specialist
-Aloysius Maria D. Trinidad – Data Specialist 
+- Appointment scheduling
+- Patient record management
+- SMS notifications
+- Online booking and cancellation
+- Payment tracking system
 
-🏫 Institution
-Our Lady of Fatima University
-College of Computer Studies
+## ⚠️ Limitations
+
+- Internet connection is required
+- Requires valid phone numbers for SMS notifications
+- Possible vulnerability to fraudulent appointments
+
+---
+
+# 👥 Researchers
+
+| Name | Role |
+|---|---|
+| Edgar R. Dollentas | Systems Developer |
+| Bart Jason G. Edades | Systems Architect |
+| Ezra A. Enanoza | Technical Writer |
+| Irish A. Balana | Data Specialist |
+| Aloysius Maria D. Trinidad | Data Specialist |
+
+---
+
+# 🏫 Institution
+
+**Our Lady of Fatima University**  
+College of Computer Studies  
 Antipolo Campus
 
-📚 Methodology
-The project follows the Agile Software Development Methodology, emphasizing:
-Continuous improvement
-Iterative development
-Stakeholder collaboration
-Flexibility and adaptability during development 
+---
 
-🔒 Scope and Limitations
-Scope
-Appointment scheduling
-Patient record management
-SMS notifications
-Payment tracking system
-Online booking and cancellation 
+# 🚀 Future Improvements
 
-Limitations
-Requires internet connection
-Requires valid phone numbers for SMS notifications
-Possible vulnerability to fraudulent appointments 
+Planned enhancements for future versions:
 
-🚀 Future Improvements
-Possible future enhancements include:
-Native mobile application
-AI-powered appointment scheduling
-Online payment gateway integration
-Advanced analytics and reporting
-Enhanced security and authentication
-Cloud-based deployment
+- 📱 Native Mobile Application
+- 🤖 AI-powered Scheduling
+- 💳 Online Payment Gateway
+- ☁️ Cloud Deployment
+- 📊 Advanced Analytics & Reports
+- 🔒 Enhanced Security Features
 
-📄 License
-This project is for academic and educational purposes only.
+---
+
+# 📄 License
+
+This project is for **academic and educational purposes only**.
+
+---
+
+<div align="center">
+
+### 🦷 Gracious Smile Dental Clinic Management System
+#### Making Dental Clinic Operations Smarter & More Efficient
+
+</div>
